@@ -18,7 +18,7 @@ I'm Alejandro Rojas a current student and soon graduate from Metropolitan Univer
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Java Badge](https://img.shields.io/badge/-Java-red?style=for-the-badge&labelColor=black&logo=Java&logoColor=)](#) [![Python Badge](https://img.shields.io/badge/-Python-F0DB4F?style=for-the-badge&labelColor=black&logo=Python&logoColor=)](#) [![Typescript Badge](https://img.shields.io/badge/-Golang-007acc?style=for-the-badge&labelColor=black&logo=Go&logoColor=007acc)](#) [![C++ Badge](https://img.shields.io/badge/-C++-blue?style=for-the-badge&labelColor=black&logo=C&logoColor=)](#) ![SQL Badge](https://img.shields.io/badge/-SQL-blue?style=for-the-badge&labelColor=black&logo=mysql&logoColor=blue)[![Cloud Badge](https://img.shields.io/badge/-Cloud_Computing-orange?style=for-the-badge&labelColor=black&logo=amazon&logoColor=)](#)
+[![Java Badge](https://img.shields.io/badge/-Java-red?style=for-the-badge&labelColor=black&logo=Java&logoColor=)](#) [![Python Badge](https://img.shields.io/badge/-Python-F0DB4F?style=for-the-badge&labelColor=black&logo=Python&logoColor=)](#) [![Typescript Badge](https://img.shields.io/badge/-Golang-007acc?style=for-the-badge&labelColor=black&logo=Go&logoColor=007acc)](#)[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) ![SQL Badge](https://img.shields.io/badge/-SQL-blue?style=for-the-badge&labelColor=black&logo=mysql&logoColor=blue)[![Cloud Badge](https://img.shields.io/badge/-Cloud_Computing-orange?style=for-the-badge&labelColor=black&logo=amazon&logoColor=)](#)
 
 
 ###
