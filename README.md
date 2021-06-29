@@ -22,7 +22,7 @@ I'm Alejandro Rojas a current student and soon graduate from Metropolitan Univer
 
 
 ###
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alejandro-Rojas&hide=contribs,prs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alejandro-Rojas&hide=contribs,prs&theme=tokyonight)](https://github.com/alejandro-rojas/github-readme-stats)
 
 ### coding stats
 
