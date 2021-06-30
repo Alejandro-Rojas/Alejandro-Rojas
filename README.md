@@ -28,6 +28,7 @@ I'm Alejandro Rojas a current student and soon graduate from Metropolitan Univer
 
 <!--START_SECTION:waka-->
 ```text
+<img src="https://wakatime.com/share/@26277d7f-2c31-4d29-a1c1-331bbfa51929/7eda38d9-46e4-42f9-ac26-976350ae9541.svg" heigh ="400"/>
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
