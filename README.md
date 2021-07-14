@@ -29,11 +29,11 @@ I'm Alejandro Rojas a current student and soon graduate from Metropolitan Univer
 
 <!--START_SECTION:waka-->
 ```text
-Go           4 hrs 26 mins   █████████▒░░░░░░░░░░░░░░░   37.69 % 
-Python       3 hrs 57 mins   ████████▒░░░░░░░░░░░░░░░░   33.55 % 
-Text         1 hr 33 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-JavaScript   44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-Bash         26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Go           6 hrs 3 mins    ███████████▒░░░░░░░░░░░░░   45.31 % 
+Python       3 hrs 52 mins   ███████▒░░░░░░░░░░░░░░░░░   28.94 % 
+Text         1 hr 33 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+JavaScript   44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+Bash         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 ```
 <!--END_SECTION:waka-->
 
