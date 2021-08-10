@@ -29,8 +29,7 @@ I'm Alejandro Rojas a current student and soon graduate from Metropolitan Univer
 
 <!--START_SECTION:waka-->
 ```text
-Python   12 mins         █████████████████▓░░░░░░░   70.37 % 
-Text     5 mins          ███████▒░░░░░░░░░░░░░░░░░   29.26 % 
+Text   5 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
